@@ -63,7 +63,7 @@ tres repos independientes en GitHub, conviviendo en una sola carpeta de trabajo 
 | Luis | `[rol]` |
 | Varillas | `[rol]` |
 | Luis Alejandro | `[rol]` |
-| Michael | `[rol]` |
+  | Michael | F1 - Ciclo de vida del pedido / Developer |
 
 ## Roadmap
 
