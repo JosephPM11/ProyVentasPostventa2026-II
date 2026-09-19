@@ -55,15 +55,14 @@ tres repos independientes en GitHub, conviviendo en una sola carpeta de trabajo 
 
 ## Equipo
 
-| Nombre | Rol / módulo a cargo |
+| Nombre | Rol |
 |---|---|
-| Joseph | Líder de equipo / Product Owner |
-| Fabrizio | F6 — Dashboard y reportes de ventas |
-| Johan | `[rol]` |
-| Luis | `[rol]` |
-| Varillas | `[rol]` |
-| Luis Alejandro | `[rol]` |
-  | Michael | F1 - Ciclo de vida del pedido / Developer |
+| Joseph | Devoluciones y cambios / Product Owner |
+| Fabrizio | Dashboard y reportes de ventas / Developer Backend|
+| Johan | Calificación de experiencia / Frontend - QA |
+| Luis Arroyo | Anulación de pedidos / Software Arquitect |
+| Luis Alejandro | Reembolsos y extornos / Developer Frontend |
+| Michael | Ciclo de vida del pedido / Developer Full Stack |
 
 ## Roadmap
 
