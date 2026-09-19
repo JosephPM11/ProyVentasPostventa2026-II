@@ -1,0 +1,5 @@
+# Ignorar carpeta backend
+/backend/
+
+# Ignorar carpeta frontend
+/frontend/
